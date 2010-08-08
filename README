@@ -3,3 +3,7 @@ This project aims to correct some of the issues in the stock ruby mode that is b
 Initial motivation are the issues described in this ticket:
 
  * http://debbugs.gnu.org/cgi/bugreport.cgi?bug=6286
+
+To use, clone this repository and add this to your .emacs:
+
+(load "~/path/to/cloned-repo/ruby-mode.el")
